@@ -1,6 +1,6 @@
 # AI and global workforce reductions
 
-This notebook tracks 2,470 reported tech layoffs from March 2020 through April 2026 and examines what employers said about AI in the 18 March 2026 records.
+This notebook analyzes 2,470 records of reported tech layoffs from March 2020 through April 2026 and examines what employers said about AI in the 18 March 2026 records.
 
 **Start here.** Open [COP 4283 Final Project.ipynb](Final%20Project/COP%204283%20Final%20Project.ipynb). Sections 9–11 contain the timeline, industry ranking, and March evidence. Section 13 summarizes the findings.
 
@@ -11,10 +11,10 @@ This notebook tracks 2,470 reported tech layoffs from March 2020 through April 2
 
    ```sh
    python -m pip install jupyterlab "pandas>=2" scipy "altair>=6,<7" "vl-convert-python>=1.9,<2"
-   python -m jupyterlab "Final Project/COP 4283 Final Project.ipynb"
+   python -m jupyterlab
    ```
 
-3. In JupyterLab, choose **Kernel → Restart Kernel and Run All Cells**. Expand the control beneath each saved figure to use its filters or read the March sources.
+3. In JupyterLab, open `Final Project/COP 4283 Final Project.ipynb` from the file browser. Choose **Kernel → Restart Kernel and Run All Cells**. Expand the control beneath each saved figure to use its filters or read the March sources.
 
 ## Files and sources
 

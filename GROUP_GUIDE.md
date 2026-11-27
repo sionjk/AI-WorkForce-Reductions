@@ -1,3 +1,9 @@
+# Archived group project plan
+
+The team used the plan below while building the project. All 18 March records have since received group review. The finished notebook contains three independent interactive views and reads the four source CSVs plus the March evidence CSV. For the final files and run instructions, see the [submission README](README.md).
+
+---
+
 # AI and workforce reductions | Group project guide
 
 ## The question we’re answering
